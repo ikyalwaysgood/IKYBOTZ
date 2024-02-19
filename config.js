@@ -1,18 +1,3 @@
-
-// - Ubah nomor owner dan wm di sini.
-// + Daftar apikey terlebih dahulu sebelum menggunakan svript ini link
-//https://api.betabotz.eu.org
-//https://api.botcahx.eu.org
-// - Jika sudah mendaftar salin key yang ada di profie dan paste di global.lann && global.btc
-// - Contoh global.btc = 'ngaksk?'//register di https://api.botcahx.live
-// - Contoh global.lann = 'Ntahla' //register key di https://api.betabotz.org
-// - Jika sudah maka lanjutkan untuk mengubah nomor owner dan wm.
-
-
-// List Key 
-// Betabotz = digunakan hampir di semua fitur kecuali linkshort
-// Botcahx  = digunakan untuk linkshort saja ( optional )
-
 global.owner = ['6285842647866']  
 global.mods = ['6285842647866'] 
 global.prems = ['6285842647866']
